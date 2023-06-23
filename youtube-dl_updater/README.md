@@ -1,6 +1,6 @@
-Automatischen updaten von youtube-dl per pip3.
+Automatischen updaten von yt-dlp per pip3.
 
-youtube-dl muss dazu mit pip3 instaliert worden sein.
+yt-dlp muss dazu mit pip3 instaliert worden sein.
 
 
 crontab -e

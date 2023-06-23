@@ -1,5 +1,7 @@
-# youtube-dl
-Helferskripte für youtube-dl
+# yt-dlp
+Helferskripte für yt-dlp
 
 
-Einfacher Audio und Video via Terminal und youtube-dl downloaden.
+Einfacher Audio und Video via Terminal und yt-dlp downloaden.
+
+Getestet Debian 11

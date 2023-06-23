@@ -1,9 +1,10 @@
-# youtube-dl
-Helferskripte für youtube-dl
+# yt-dlp
+Helferskripte für yt-dlp
 
 
-Einfacher Audio und Video via Terminal und youtube-dl downloaden.
+Einfacher Audio und Video via Terminal und yt-dlp downloaden.
 
 Abhänigkeiten.
 
-$ apt install youtube-dl atomicparsley aria2 ffmpeg
+$ sudo python3 -m pip install --upgrade yt-dlp
+$ sudo apt install atomicparsley aria2 ffmpeg
